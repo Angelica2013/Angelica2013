@@ -1,3 +1,7 @@
+![Header](./your-header-image-name.png)
+
+
+
 # 💫 About Me:
 Soy una persona muy alegre, organizada y comprometida con lo que hago. Disfruto mucho de prestar atención a los detalles y siempre busco dar lo mejor de mí en cada proyecto. Durante muchos años trabajé en atención al cliente, lo que me permitió desarrollar habilidades para resolver problemas rápidamente, comunicarme de manera efectiva y adaptarme a diferentes situaciones, algo que me ha sido muy útil en mi camino hacia la programación.<br><br>Actualmente, he terminado un Bootcamp en Factoría F5, donde he adquirido una sólida base en desarrollo web tanto en front-end como en back-end. La metodología de aprender haciendo y colaborando en equipo ha sido clave para enfrentarme a retos reales, mejorar mis habilidades técnicas y crecer profesionalmente.<br><br>Lo que más disfruto de la programación es cómo combinar la lógica con la creatividad, y estoy entusiasmada por seguir formándome en este campo y aplicar todo lo que he aprendido durante el Bootcamp en proyectos futuros.<br>
 
