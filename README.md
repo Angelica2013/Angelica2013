@@ -1,5 +1,4 @@
-![Header](./your-header-image-name.png)
-
+![github-header-image (3)](https://github.com/user-attachments/assets/7fca6e81-9708-41f3-84f0-59f82723e6f6)
 
 
 # 💫 About Me:
